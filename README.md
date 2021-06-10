@@ -4,4 +4,4 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cboski&layout=compact&text_color=daf7dc&bg_color=151515)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cbsoki&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Cbsoi/github-readme-stats)
